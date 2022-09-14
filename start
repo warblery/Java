@@ -1,0 +1,6 @@
+public class Hellojavaprog2{
+ public static void main(String [] args) {
+ int n = 0;
+ System.out.println("안녕 자바"+n);
+ }
+}
